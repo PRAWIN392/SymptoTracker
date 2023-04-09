@@ -19,4 +19,4 @@ The application is built using React, Python, Flask, and RStudio, and currently 
 
 # LIVE DEPLOYMENT
 
-Live Deployment of [SymptoTracker](sympto-tracker.vercel.app/)
+Live Deployment of [SymptoTracker](https://sympto-tracker.vercel.app/)
