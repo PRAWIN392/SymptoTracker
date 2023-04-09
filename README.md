@@ -16,3 +16,7 @@ The application is built using React, Python, Flask, and RStudio, and currently 
 * Chronic Kidney Disease
 * Coronary Heart Disease
 * Diabetes Mellitus
+
+# LIVE DEPLOYMENT
+
+Live Deployment of [SymptoTracker](sympto-tracker.vercel.app/)
