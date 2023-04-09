@@ -19,10 +19,10 @@ The application is built using React, Python, Flask, and RStudio, and currently 
 
 # Tech Stack
 
-* RStudio -> Data Analysis and Visualization
+* ==RStudio==  -> Data Analysis and Visualization
 * React.js -> Frontend Web Framework
-* Python -> Machine Learning Models
-* Flask -> Backend Web Framework
+* Python   -> Machine Learning Models
+* Flask    -> Backend Web Framework
 
 # Live Deployment
 
