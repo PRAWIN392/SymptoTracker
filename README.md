@@ -17,6 +17,15 @@ The application is built using React, Python, Flask, and RStudio, and currently 
 * Coronary Heart Disease
 * Diabetes Mellitus
 
-# LIVE DEPLOYMENT
+# Tech Stack
+
+* RStudio -> Data Analysis and Visualization
+* React.js -> Frontend Web Framework
+* Python -> Machine Learning Models
+* Flask -> Backend Web Framework
+
+# Live Deployment
 
 Live Deployment of [SymptoTracker](https://sympto-tracker.vercel.app/)
+
+
