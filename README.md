@@ -5,24 +5,24 @@ patient's medical record or patient scan report.
 
 For predicting the disease diagnosis we used Supervised Binary classification Machine Learning models, and used the following algorithms:
 
-* Logistic Regression
-* Support Vector Machine
-* XGBoost
+* `Logistic Regression`
+* `Support Vector Machine`
+* `XGBoost`
 
 The application is built using React, Python, Flask, and RStudio, and currently supports the prediction of the following diseases:
 
-* Mesothelioma
-* Liver Cirrhosis
-* Chronic Kidney Disease
-* Coronary Heart Disease
-* Diabetes Mellitus
+* `Mesothelioma`
+* `Liver Cirrhosis`
+* `Chronic Kidney Disease`
+* `Coronary Heart Disease`
+* `Diabetes Mellitus`
 
 # Tech Stack
 
-* =RStudio=  -> Data Analysis and Visualization
-* React.js -> Frontend Web Framework
-* Python   -> Machine Learning Models
-* Flask    -> Backend Web Framework
+* `RStudio`  -> Data Analysis and Visualization
+* `React.js` -> Frontend Web Framework
+* `Python`   -> Machine Learning Models
+* `Flask`    -> Backend Web Framework
 
 # Live Deployment
 
